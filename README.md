@@ -1,5 +1,5 @@
-### Formal Languages and Automata theory :computer_mouse:
-# Dropbox-Shell :floppy_disk:
+### Operating systems :floppy_disk:
+# Dropbox-Shell 
 
 The project is a shell that exposes the functionality of the dbxcli utility (ex. cp, mv, mkdir, rm) and connects with the local file system. It was developed by myself and [Valentin Maftei](https://github.com/ValentinMaftei). It is essentially a wrapper around the dbxcli library, which can be found at https://github.com/dropbox/dbxcli.
 
